@@ -9,7 +9,7 @@ name: Labeler
 on: [pull_request]
 
 jobs:
-  label:sys-update
+  label:
   
 
     runs-on: ubuntu-latest
